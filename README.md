@@ -1,2 +1,2 @@
 # first_non_nil
-Ruby gem to find the first non-nil element of an array or result of a block
+Return the first element of an array that is not nil or, if given a block, the first non-nil result of the given block.
