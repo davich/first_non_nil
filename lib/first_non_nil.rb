@@ -4,5 +4,6 @@ class Array
       result = block_given? ? yield(element) : element
       return result unless result.nil?
     end
+    nil
   end
 end
